@@ -1,0 +1,7 @@
+deepmimo
+numpy
+torch
+torchvision
+transformers
+Pillow
+matplotlib

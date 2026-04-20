@@ -1,0 +1,7 @@
+deepmimo_scenarios/
+__pycache__/
+*.pth
+*.mat
+.idea/
+*.png
+data/
