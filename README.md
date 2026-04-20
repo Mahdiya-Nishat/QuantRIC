@@ -32,7 +32,7 @@ Synthetic Scene Image  →  Frozen ViT + Projection    →  (B, 197, 256)
                           ↓
                    RIC Decision (RIS Configuration)
 ```
-
+'B' represents the batch size of the training sample.
 ---
 
 ## Code Structure
