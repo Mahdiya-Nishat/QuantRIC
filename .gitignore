@@ -1,6 +1,6 @@
 deepmimo_scenarios/
 __pycache__/
-*.pth
+#*.pth
 *.mat
 .idea/
 *.png
