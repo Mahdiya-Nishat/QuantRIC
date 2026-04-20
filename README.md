@@ -31,8 +31,9 @@ Synthetic Scene Image  →  Frozen ViT + Projection    →  (B, 197, 256)
                   RIS Phase Shifts (16 elements, 0 to 2π)
                           ↓
                    RIC Decision (RIS Configuration)
+
+Here, 'B' represents the batch size of the training sample.
 ```
-### 'B' represents the batch size of the training sample.
 ---
 
 ## Code Structure
