@@ -157,6 +157,7 @@ end_to_end_demo(sample_idx=2)
 @article{quantric2026,
   title   = {QuantRIC: Hybrid Quantum-Classical Framework for Predictive 
              ISAC-RIS Orchestration in 6G O-RAN},
+  author={Nishat Mahdiya Khan},
   year    = {2026}
 }
 ```
